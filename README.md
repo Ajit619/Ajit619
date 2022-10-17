@@ -9,7 +9,6 @@
   </a>
 
 </div>
-✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
 <img src="https://komarev.com/ghpvc/?username=Ajit619&style=flat-square&color=blue" alt=""/>
 
@@ -23,14 +22,6 @@
 </div>
 
 ---
-- 👋 Hi, I’m @Ajit619
-- 👀 I’m interested in Software Development and Open Source Contributor
-- 🌱 I’m currently learning backend
-- 💞️ I’m looking to collaborate on open Source Program
-- 📫 How to reach me :- <div id="badges">
-  <a href="https://www.linkedin.com/in/ajitkumar-sharma-72b2101bb/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
 <!-- ### :woman_technologist: About Me : -->
 <!-- I am a  Computer Engineering Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Zeal College Of Engineering And Research. -->
 ## :sassy_man:  About me :
@@ -70,7 +61,6 @@ I am a  Computer Engineering Student <img src="https://media.giphy.com/media/WUl
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
-✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
  ### 👉 IDEs
  
